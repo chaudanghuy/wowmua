@@ -1,0 +1,5 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+  .dropdown--courier .messages-content__dropdown--button p {
+    font-size: 14px;
+  }
+}

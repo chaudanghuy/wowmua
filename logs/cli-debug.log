@@ -1,0 +1,24 @@
+2018-11-19 15:56:18 Notice: Notice (8): Undefined index: SERVER_NAME in [/Applications/MAMP/htdocs/wowmua/config/bootstrap.php, line 209]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+include - ROOT/config/bootstrap.php, line 209
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2018-11-24 10:05:04 Notice: Notice (8): Undefined index: SERVER_NAME in [/Applications/MAMP/htdocs/wowmua/config/bootstrap.php, line 209]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+include - ROOT/config/bootstrap.php, line 209
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2018-11-24 10:05:13 Notice: Notice (8): Undefined index: SERVER_NAME in [/Applications/MAMP/htdocs/wowmua/config/bootstrap.php, line 209]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+include - ROOT/config/bootstrap.php, line 209
+[main] - ROOT/bin/cake.php, line 31
+
+
+

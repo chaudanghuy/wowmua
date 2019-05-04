@@ -1,0 +1,419 @@
+msgid "Hướng dẫn mua hàng"
+msgstr "Order Instruction"
+
+msgid "HƯỚNG DẪN MUA HÀNG"
+msgstr "ORDER INSTRUCTION"
+
+msgid "Đăng ký"
+msgstr "Sign up"
+
+msgid "Đăng nhập"
+msgstr "Log in"
+
+msgid "Mua từ"
+msgstr "From"
+
+msgid "QUỐC GIA"
+msgstr "Country"
+
+msgid "Chuyển về"
+msgstr "To"
+
+msgid "TỈNH, THÀNH PHỐ"
+msgstr "City, Country"
+
+msgid "Cần trước ngày"
+msgstr "Needed by"
+
+msgid "Tìm kiếm"
+msgstr "Search"
+
+msgid "CHỈ VIỆC NẰM NHÀ SHOPPING THẾ GIỚI"
+msgstr "Staying home, Shopping the world"
+
+msgid "CÙNG CÁNH CỬA GIAO NHẬN VẬN CHUYỂN HÀNG HOÁ QUỐC TẾ WOWMUA"
+msgstr "With reliable international travelers from WowMua"
+
+msgid "Đặt hàng NGAY!"
+msgstr "Order NOW!"
+
+msgid "Tìm kiếm"
+msgstr "Search"
+
+msgid "SẢN PHẨM NỔI BẬT"
+msgstr "Featured Products"
+
+msgid "Mua từ"
+msgstr "From"
+
+msgid "Xem ngay"
+msgstr "View now"
+
+msgid "Giá"
+msgstr "Price"
+
+msgid "NHỮNG LÝ DO ĐỂ BẠN CHỌN WOWMUA"
+msgstr "Why shopping with WowMua?"
+
+msgid "Mua hàng xách tay mọi lúc mọi nơi"
+msgstr "Shopping at anytime and anywhere"
+
+msgid "Mặc cho sản phẩm bạn muốn mua đựơc sản xuất ở quốc gia nào, nếu sản phẩm hợp pháp, WOWMUA sẽ điều phối người vận chuyển mang hàng xách tay về cho bạn. Những người vận chuyển là đội ngũ tiếp viên và traveler thường xuyên đi lại giữa Việt Nam và nước sở tại. Vì vậy, luôn có hàng bạn cần."
+msgstr "If a product is sold anywhere in the world and legally allowed in Vietnam, WowMua will request a traveler to bring it to you. The international shippers are flight attendants and travelers who travel frequently between Vietnam and foreign countries. Therefore, we always have the goods you need in a short period of time."
+
+msgid "Phí dịch vụ cố định"
+msgstr "Transparent service fee"
+
+msgid "WOWMUA cam kết cố định phí dịch vụ giao hàng. Chúng tôi cung cấp bảng tính và minh bạch tất cả chi phí dịch vụ. Chúng tôi chỉ nhận phí dịch vụ cố định về tư vấn và điều phối, phí rẻ bằng 1 ly trà sữa mà thôi."
+msgstr "WowMua commits to bring a fixed and clear shipping and service fee. Our fixed service charge is only cost one cup of milk tea."
+
+msgid "Hệ thống đáng tin cậy"
+msgstr "Reliable system"
+
+msgid "Đội ngũ traveler là tiếp viên và khách du lịch cố định thường xuyên đi lại giữa các tuyến, có độ tin cậy cao. Chúng tôi có giới thiệu, hướng dẫn và khuyến khích các bạn mua hàng online trên các trang web uy tín cung cấp hàng hoá chính hãng. WOWMUA chỉ trả chi phí cho người vận chuyển khi bạn nhận được món hàng bạn yêu cầu."
+msgstr "WowMua is a network of verified and trusted global travelers. We introduce and encourage shoppers to buy on reputable places that offer genuine merchandise. We hold your payment and only release it to the traveler once your item is delivered."
+
+msgid "WOWMUA hoạt động ra sao ?"
+msgstr "How WowMua Works?"
+
+msgid "Tìm kiếm sản phẩm bạn yêu thích, tìm kiếm các đợt khuyến mãi trong thời gian thực cho bạn."
+msgstr "You search for your favorite product and submit the order"
+
+msgid "Chúng tôi liên hệ những người vận chuyển đi du lịch đến nước có hàng bạn đặt sẽ được nhận đơn hàng của bạn với giá tốt nhất và thời gian giao hàng sớm nhất và thông báo cho bạn."
+msgstr "You make payment"
+
+msgid "Bạn xác nhận vận chuyển và thanh toán đơn hàng, chúng tôi sẽ gửi xác nhận để người mua hộ tiến hành mua và chuyển về Việt Nam"
+msgstr "We contact the travelers who will travel from the country you need with the shortest delivery time"
+
+msgid "Chúng tôi liên hệ với bạn để giao hàng tại Việt Nam"
+msgstr "We deliver products to your house"
+
+msgid "Về chúng tôi"
+msgstr "About"
+
+msgid "Thông tin"
+msgstr "Information"
+
+msgid "Chính sách quy định chung"
+msgstr "Policy"
+
+msgid "Liên hệ báo chí"
+msgstr "Press"
+
+msgid "Chính sách bảo mật"
+msgstr "Privacy"
+
+msgid "Điền"
+msgstr "Fill"
+
+msgid "thông tin"
+msgstr "information"
+
+msgid "cho đơn hàng của bạn"
+msgstr "for your order"
+
+msgid "Điền thông tin cho đơn hàng của bạn"
+msgstr "Fill information for your order:"
+
+msgid "Tải hình sản phẩm bạn muốn mua"
+msgstr "Upload product image"
+
+msgid "Bấm vào đây để tải hình"
+msgstr "Click here to upload image"
+
+msgid "Tên sản phẩm"
+msgstr "Title of item"
+
+msgid "Giá sản phẩm"
+msgstr "Price per item"
+
+msgid "Giá"
+msgstr "Price"
+
+msgid "Link sản phẩm (nếu có)"
+msgstr "Product Link (optional)"
+
+msgid "Khối lượng 1 sản phẩm"
+msgstr "Weight per item"
+
+msgid "Phí ship nội địa (nếu có)"
+msgstr "Domestic shipping fee (optional)"
+
+msgid "Phí ship"
+msgstr "Shipping Fee"
+
+msgid "Số lượng"
+msgstr "Quantity"
+
+msgid "Ghi chú khác (màu sắc, kích thước, dung tích)"
+msgstr "Others (color, size, volume…)"
+
+msgid "Thông tin giao hàng"
+msgstr "Delivery Information"
+
+msgid "Tên người nhận"
+msgstr "Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Địa chỉ"
+msgstr "Address"
+
+msgid "SĐT"
+msgstr "Phone Number"
+
+msgid "Tóm tắt"
+msgstr "Summary"
+
+msgid "Chuyển về"
+msgstr "Drop-off"
+
+msgid "Mua từ"
+msgstr "Purchase from"
+
+msgid "Cần trước ngày"
+msgstr "Needed by"
+
+msgid "Giá"
+msgstr "Total Price"
+
+msgid "Trong đó"
+msgstr "Details"
+
+msgid "Giá sản phẩm"
+msgstr "Product Price"
+
+msgid "Phí ship traveler"
+msgstr "Traveler Shipping Fee"
+
+msgid "Phí dịch vụ"
+msgstr "Service Fee"
+
+msgid "Đặt hàng"
+msgstr "Request"
+
+msgid "ĐẶT HÀNG THÀNH CÔNG"
+msgstr "YOUR ORDER HAS BEEN RECEIVED!"
+
+msgid "Mã đơn hàng của bạn"
+msgstr "Your order number is"
+
+msgid "Để thanh toán, bạn vui lòng chuyển khoản {0} VND cho WowMua trước 17:00 ngày {1} theo thông tin"
+msgstr "To complete order process, please transfer {0} VND to WowMua’s bank account before 17:00 on {1} at following details"
+
+msgid "Chủ tài khoản"
+msgstr "Account name"
+
+msgid "Số tài khoản"
+msgstr "Account number"
+
+msgid "Nội dung chuyển khoản"
+msgstr "Subject"
+
+msgid "WowMua sẽ xác nhận và chuyển đơn hàng đến traveler ngay sau khi nhận được thanh toán của bạn. Thời gian giao hàng dự kiến trong vòng 14 ngày làm việc không kể thứ 7 và chủ nhật"
+msgstr "Your order will be forwarded to traveler as soon as payment has been received. Delivery time is expected within 14 business days, excluding Saturday and Sunday."
+
+msgid "Thông tin chi tiết đơn hàng sẽ được gửi đến địa chỉ email {0}. Nếu không tìm thấy vui lòng kiểm tra hộp thư Spam và Junk Folder"
+msgstr "You will receive an order confirmation email at {0}. If not, please check the Spam and Junk Folder."
+
+msgid "Tiếp tục đặt hàng"
+msgstr "Continue Order"
+
+msgid "Bạn cần hỗ trợ?"
+msgstr "Need support now?"
+
+msgid "Bạn muốn đặt hàng từ Hàn Quốc, Nhật Bản và Úc về đến Việt Nam một cách nhanh chóng, thuận tiện với hóa đơn đầy đủ từ đội ngũ traveler quốc tế của WowMua? Chỉ cần vài nhấp chuột và bạn đã có thể yên tâm “nằm nhà, shopping thế giới” rồi nhé. Hãy cùng xem những hướng dẫn bên dưới để đặt hàng cùng WowMua!!!"
+msgstr "You want to order Korea, Japan and Australia products in a fast, easy and convenient way? You also need to get enough bills from original buying places to ensure the high quality products? With only a few clicks and you can stay home, shop the world with reliable international travelers from Wowmua. Let’s see below instruction of how to order products with us today!!!"
+
+msgid "Lựa chọn hành trình mà bạn muốn order hàng"
+msgstr "Choose the itinerary you wish to order products"
+
+msgid "Sau khi truy cập vào wowmua.com, bạn hoàn toàn yên tâm bởi trang web hiển thị toàn bộ bằng tiếng Việt rất dễ dàng cho việc sử dụng. Tiếp đến, bạn lựa chọn quốc gia (Hàn Quốc / Nhật Bản / Úc) mà mình muốn đặt hàng ở ô “Mua từ” cũng như tỉnh, thành phố mà bạn sinh sống ở ô “Chuyển về” để WowMua có thể gửi hàng đến tận nhà cho bạn. Sau đó nhấp vào ô “Tìm kiếm”."
+msgstr "After accessing wowmua.com, you choose English language for easy ordering. Next, you choose the country you wish to purchase products from (there are currently 3 options which are Korea, Japan and Australia) in the fill “From” then you choose the city you are staying in Vietnam in fill “To” so we can deliver the products to your place. Then click “Search”."
+
+msgid "Đặt hàng"
+msgstr "Order products"
+
+msgid "Giờ thì bạn đang nhìn thấy trang giao diện đặt hàng của WowMua. Bạn có thể yêu cầu thời gian giao hàng tối đa mình có thể chờ để giao hàng bằng cách chọn thời gian ở ô “cần trước ngày”. WowMua luôn có nhiều traveler vận chuyển thường xuyên để giao hàng nhanh cho bạn. Tuy nhiên đối với nhiều đơn hàng mua qua web thì sẽ tốn nhiều thời gian hơn để traveler chờ người bán giao hàng ở địa chỉ nước ngoài. Nếu thời gian bạn yêu cầu khó đáp ứng, WowMua sẽ thông báo để bạn được biết."
+msgstr "Now you are on the order page of Wowmua. You can request maximum delivery date by choosing time in fill “Needed by”. We always have frequent travelers to purchase products at stores and bring back to Vietnam very fast. However, if your products need to purchase from websites, it will take more time for our travelers to wait for sellers oversea to deliver products to their places before they can bring them back to Vietnam. In case your requested delivery date is hard for us to commit, we will inform to let you know. "
+
+msgid "Tiếp đến, bạn sẽ thấy phần “Điền THÔNG TIN cho đơn hàng của bạn như sau"
+msgstr "Next, you will see the “Fill INFORMATION for your order” as below:"
+
+msgid "Bạn cần hoàn tất các bước trong phần 1 như:"
+msgstr "You need to complete all steps in part 1 as below:"
+
+msgid "- Tải hình ảnh sản phẩm bạn muốn mua"
+msgstr "- Upload product image"
+
+msgid "- Điền tên sản phẩm"
+msgstr "- Put title of item"
+
+msgid "- Điền khối lượng sản phẩm. Trong trường hợp bạn không thấy khối lượng sản phẩm trên web thì có thể điền dung tích sản phẩm. Đội ngũ WowMua sẽ liên hệ bạn nếu cần sự điều chỉnh"
+msgstr "- Put price per item (according to the currency rate of the country you wish to buy product). For example: if product has the price of 4,120 you can put 4120; if product has price of 15.99 (under 16) you can put  15.99."
+
+msgid "Điền giá sản phẩm (theo đơn vị tiền tệ của quốc gia bạn muốn mua). Ví dụ: sản phẩm có giá 4,120 thì bạn điền 4120; sản phẩm có giá 15.99 (dưới 16) thì bạn điền 15.99. Bạn vui lòng không điền dấu chấm hoặc phẩy nếu không cần thiết để tránh bị sai giá."
+msgstr "- Put weight per item. In case you can not find product’s weight on website, you can put product’s volume in the fill."
+
+msgid "- Điền số lượng sản phẩm bạn muốn mua"
+msgstr "- Put quantity of products you wish to purchase"
+
+msgid "- Nếu bạn mua hàng qua website và cần phải trả phí ship nội địa ở nước sở tại thì bạn điền thông tin về link sản phẩm và phí ship nội địa (nếu có). Trong trường hợp bạn mua hàng tại cửa hàng mà có website, việc bạn điền link sản phẩm sẽ giúp traveler tìm kiếm và mua sản phẩm cho bạn chuẩn xác hơn. "
+msgstr "- If you order products from a website that requires domestic shipping fee, you need to put product link and domestic shipping fee. "
+
+msgid "- Điền ghi chú khác (màu sắc, kích thước, dung tích). Đối với những bạn order quần áo và giày dép vui lòng điền màu sắc, size giày / áo / quần, chiều cao của giày là bao nhiêu cm (nếu có), đối với các loại hóa mỹ phẩm thì bạn có thể điền mua loại bao nhiêu l / ml. Càng chi tiết bao nhiêu thì traveler mua hàng cho bạn chính xác bấy nhiêu."
+msgstr "- Put other requirements for the products (color, size, volume…). If you wish to order clothes and shoes please put color, size, height of high heel (if any), if you wish to buy cosmetics please put volume. "
+
+msgid "Sau khi bạn điền xong phần 1, phần “Tóm tắt” sẽ tự động hiển thị tổng quát lại các thông tin bạn đã điền vào trước đó. Ở đây, bạn cũng thấy được tổng giá sau ship về Việt Nam là bao nhiêu với chi tiết các phí mà bạn phải trả (giá sản phẩm, phí ship của traveler, phí dịch vụ) như hình bên dưới."
+msgstr "After you complete filling in part 1, the “summary” part will automatically show all information you filled before. Here, you can check the final price in Vietnam Dong and all of its details including product price, traveler shipping fee and service fee as below."
+
+msgid "Bạn không cần phải là một thành viên mới đặt hàng được trên WowMua, chính vì vậy bạn có thể điền thông tin ở phần số 2 về “Thông tin giao hàng” bao gồm:"
+msgstr "You do not need to be a member to order oversea products with Wowmua. Therefore, you can fill information in part 2 about “Delivery information” including:"
+
+msgid "- Điền tên người nhận hàng"
+msgstr "- Put name of the receiver"
+
+msgid "- Điền email liên hệ để WowMua gửi mail xác nhận đơn hàng"
+msgstr "- Put email address to receive confirmation email"
+
+msgid "- Điền địa chỉ nhận hàng"
+msgstr "- Put address of the receiver"
+
+msgid "- Điền số điện thoại để giao hàng"
+msgstr "- Put phone number of the receiver"
+
+msgid "Sau đó nhấp vào ô “Đặt hàng”."
+msgstr "After that, click “Request”."
+
+msgid "Hoàn tất đặt hàng"
+msgstr "Complete your order"
+
+msgid "Khi đã hoàn tất được thủ tục mua hàng, bạn sẽ thấy được hiển thị “ĐẶT HÀNG THÀNH CÔNG” cùng với những thông tin về:"
+msgstr "After finishing all ordering processes, you will see “YOUR ORDER HAS BEEN RECEIVED!” with below details:"
+
+msgid "Mã đơn hàng của bạn"
+msgstr "Your order number"
+
+msgid "Tổng số tiền bạn cần thanh toán. Hiện tại WowMua chỉ chấp nhận hình thức thanh toán chuyển khoản qua ngân hàng"
+msgstr "Total amount you need to pay. At the moment we only accept bank transfer"
+
+msgid "Thời hạn thanh toán"
+msgstr "Payment deadline"
+
+msgid "Địa chỉ thanh toán"
+msgstr "Payment address"
+
+msgid "Đia chỉ email WowMua xác nhận đơn hàng và thông báo trạng thái đơn hàng qua email cho bạn."
+msgstr "Your email address to receive confirmation email"
+
+msgid "Nhận hàng"
+msgstr " Receive products"
+
+msgid "Khi đã hoàn tất được thủ tục mua hàng và thanh toán, bạn chỉ cần ung dung ngồi nhà và chờ WowMua gửi hàng đến tận nơi cho bạn. Hóa đơn gốc mua ở nước ngoài sẽ được gửi đến bạn qua email. Quá thuận tiện phải không nào? Đặt hàng NGAY cùng WowMua!"
+msgstr "After finishing all order and payment processes, you do not need to do anything but we will deliver products directly to your place. We then send Original Bills that travelers got from oversea to you via email. "
+
+msgid "Đặt hàng từ"
+msgstr "Order from"
+
+msgid "HÀN QUỐC"
+msgstr "KOREA"
+
+msgid "NHẬT BẢN"
+msgstr "JAPAN"
+
+msgid "ÚC"
+msgstr "AUSTRALIA"
+
+msgid "ANH"
+msgstr "UNITED KINGDOM"
+
+msgid "ĐỨC"
+msgstr "GERMANY"
+
+msgid "PHÁP"
+msgstr "FRANCE"
+
+msgid "Xin chào {0}"
+msgstr "Dear {0}"
+
+msgid "Cảm ơn bạn đã đặt hàng tại Wowmua"
+msgstr " Thank you for ordering with Wowmua."
+
+msgid "Đơn hàng"
+msgstr "Your booking"
+
+msgid "đơn hàng"
+msgstr "order"
+
+msgid "của bạn đang"
+msgstr "is"
+
+msgid "Wowmua sẽ gửi thông báo đến bạn thông qua email khác sau khi trạng thái đơn hàng thay đổi."
+msgstr "We will send you another email right after your booking status has been changed."
+
+msgid "Số tiền cần thanh toán"
+msgstr "Amount due"
+
+msgid "Thời hạn cần thanh toán"
+msgstr "Payment deadline"
+
+msgid "Thông tin chuyển khoản"
+msgstr "Payment address"
+
+msgid "Chủ tài khoản"
+msgstr "Account name"
+
+msgid "Nội dung chuyển khoản"
+msgstr "Subject"
+
+msgid "Số tài khoản"
+msgstr "Account number"
+
+msgid "THÔNG TIN NHẬN HÀNG"
+msgstr "RECEIVER INFORMATION"
+
+msgid "Thời gian nhận hàng dự kiến"
+msgstr "EXPECTED DELIVERY DATE TO vIETNAM "
+
+msgid "Within 14 days after completing payment"
+msgstr "Trong vòng 14 ngày kể từ khi hoàn tất thanh toán đơn hàng"
+
+msgid "CHI TIẾT ĐƠN HÀNG"
+msgstr "BOOKING DETAILS"
+
+msgid "Giá SP"
+msgstr "Price per item"
+
+msgid "Phí ship nội địa"
+msgstr "Domestic shipping fee"
+
+msgid "Trọng lượng"
+msgstr "Weight per item"
+
+msgid "Ghi chú"
+msgstr "Others"
+
+msgid "Giá"
+msgstr "Total"
+
+msgid "Một lần nữa Wowmua cảm ơn bạn."
+msgstr "Thank you very much."
+
+msgid "Bạn cần được hỗ trợ ngay?"
+msgstr "Need support now?"
+
+msgid "bao gồm thứ bảy, chủ nhật"
+msgstr "everyday including Saturday and Sunday"
+
+msgid "Bạn vui lòng cung cấp thông tin: tên ngân hàng, tài khoản, số tài khoản đến địa chỉ mail: wowmua.info@gmail.com để Wowmua có thể hoàn trả tiền về cho bạn."
+msgstr "Please provide information: bank name, account, account number to the mail address: wowmua.info@gmail.com so that Wowmua can refund the money to you."
+
+msgid "Thời gian nhận tiền trong vòng 3 ngày kể từ khi Wowmua nhận được thông tin chuyển khoản từ bạn."
+msgstr "Time to receive money within 3 days since Wowmua receives the transfer information from you."
+
+msgid "Rất tiếc"
+msgstr "Sorry"
+
+msgid "Rất tiếc đơn hàng"
+msgstr "Sorry your order"

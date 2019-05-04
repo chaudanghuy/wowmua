@@ -1,0 +1,1403 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-10-07 14:51+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/CartsController.php:93;100;147
+#: Controller/Admin/CartsController.php:55;82
+msgid "The cart has been saved."
+msgstr ""
+
+#: Controller/CartsController.php:96;150
+#: Controller/Admin/CartsController.php:58;85
+msgid "The cart could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CartsController.php:230
+msgid "Order has been saved."
+msgstr ""
+
+#: Controller/CartsController.php:233
+#: Controller/OrdersController.php:58;83
+#: Controller/Admin/OrdersController.php:59;85
+msgid "The order could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CartsController.php:286
+#: Controller/Admin/CartsController.php:106
+msgid "The cart has been deleted."
+msgstr ""
+
+#: Controller/CartsController.php:288
+#: Controller/Admin/CartsController.php:108
+msgid "The cart could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OrdersController.php:55;80
+#: Controller/Admin/OrdersController.php:56;82
+msgid "The order has been saved."
+msgstr ""
+
+#: Controller/OrdersController.php:102
+#: Controller/Admin/OrdersController.php:105
+msgid "The order has been deleted."
+msgstr ""
+
+#: Controller/OrdersController.php:104
+#: Controller/Admin/OrdersController.php:107
+msgid "The order could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ProductsController.php:287;312
+#: Controller/Admin/ProductsController.php:55;88
+msgid "The product has been saved."
+msgstr ""
+
+#: Controller/ProductsController.php:290;315
+#: Controller/Admin/ProductsController.php:58;91
+msgid "The product could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ProductsController.php:334
+#: Controller/Admin/ProductsController.php:112
+msgid "The product has been deleted."
+msgstr ""
+
+#: Controller/ProductsController.php:336
+#: Controller/Admin/ProductsController.php:114
+msgid "The product could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:35
+#: Controller/Admin/UsersController.php:25
+msgid "Invalid username or password, try again !"
+msgstr ""
+
+#: Controller/UsersController.php:87;112
+#: Controller/Admin/UsersController.php:76;101
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:90;115
+#: Controller/Admin/UsersController.php:79;104
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:134
+#: Controller/Admin/UsersController.php:123
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:136
+#: Controller/Admin/UsersController.php:125
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/Admin/CategoriesController.php:57;82
+msgid "The category has been saved."
+msgstr ""
+
+#: Controller/Admin/CategoriesController.php:60;85
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/Admin/CategoriesController.php:104
+msgid "The category has been deleted."
+msgstr ""
+
+#: Controller/Admin/CategoriesController.php:106
+msgid "The category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/Admin/DiscountsController.php:55;81
+msgid "The discount has been saved."
+msgstr ""
+
+#: Controller/Admin/DiscountsController.php:58;84
+msgid "The discount could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/Admin/DiscountsController.php:104
+msgid "The discount has been deleted."
+msgstr ""
+
+#: Controller/Admin/DiscountsController.php:106
+msgid "The discount could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/Admin/PagesController.php:52;77
+msgid "The page has been saved."
+msgstr ""
+
+#: Controller/Admin/PagesController.php:55;80
+msgid "The page could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/Admin/PagesController.php:99
+msgid "The page has been deleted."
+msgstr ""
+
+#: Controller/Admin/PagesController.php:101
+msgid "The page could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/Admin/ProductImagesController.php:55;81
+msgid "The product image has been saved."
+msgstr ""
+
+#: Controller/Admin/ProductImagesController.php:58;84
+msgid "The product image could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/Admin/ProductImagesController.php:104
+msgid "The product image has been deleted."
+msgstr ""
+
+#: Controller/Admin/ProductImagesController.php:106
+msgid "The product image could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/Admin/PurchasesController.php:55;82
+msgid "The purchase has been saved."
+msgstr ""
+
+#: Controller/Admin/PurchasesController.php:58;85
+msgid "The purchase could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/Admin/PurchasesController.php:106
+msgid "The purchase has been deleted."
+msgstr ""
+
+#: Controller/Admin/PurchasesController.php:108
+msgid "The purchase could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/Admin/ReviewsController.php:55;82
+msgid "The review has been saved."
+msgstr ""
+
+#: Controller/Admin/ReviewsController.php:58;85
+msgid "The review could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/Admin/ReviewsController.php:106
+msgid "The review has been deleted."
+msgstr ""
+
+#: Controller/Admin/ReviewsController.php:108
+msgid "The review could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/Admin/SubCategoriesController.php:55;81
+msgid "The sub category has been saved."
+msgstr ""
+
+#: Controller/Admin/SubCategoriesController.php:58;84
+msgid "The sub category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/Admin/SubCategoriesController.php:104
+msgid "The sub category has been deleted."
+msgstr ""
+
+#: Controller/Admin/SubCategoriesController.php:106
+msgid "The sub category could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Admin/Carts/add.ctp:3
+#: Template/Admin/Carts/edit.ctp:3
+#: Template/Admin/Carts/index.ctp:15
+#: Template/Admin/Discounts/add.ctp:3
+#: Template/Admin/Discounts/edit.ctp:3
+#: Template/Admin/Discounts/index.ctp:15
+#: Template/Admin/Orders/add.ctp:3
+#: Template/Admin/Orders/view.ctp:17
+#: Template/Admin/Pages/add.ctp:3
+#: Template/Admin/Pages/edit.ctp:3
+#: Template/Admin/Pages/index.ctp:12
+#: Template/Admin/ProductImages/add.ctp:3
+#: Template/Admin/ProductImages/edit.ctp:3
+#: Template/Admin/ProductImages/index.ctp:15
+#: Template/Admin/Products/add.ctp:3
+#: Template/Admin/Products/view.ctp:95;133;170
+#: Template/Admin/Purchases/add.ctp:3
+#: Template/Admin/Purchases/edit.ctp:3
+#: Template/Admin/Purchases/index.ctp:15
+#: Template/Admin/Reviews/add.ctp:3
+#: Template/Admin/Reviews/edit.ctp:3
+#: Template/Admin/Reviews/index.ctp:15
+#: Template/Admin/SubCategories/add.ctp:3
+#: Template/Admin/SubCategories/edit.ctp:3
+#: Template/Admin/SubCategories/index.ctp:14
+#: Template/Admin/SubCategories/view.ctp:61
+#: Template/Admin/Users/add.ctp:3
+#: Template/Admin/Users/edit.ctp:3
+#: Template/Admin/Users/index.ctp:15
+#: Template/Bake/Template/index.ctp:39
+#: Template/Bake/Template/view.ctp:126
+msgid "Actions"
+msgstr ""
+
+#: Template/Admin/Carts/add.ctp:4
+#: Template/Admin/Carts/edit.ctp:10
+#: Template/Admin/Products/add.ctp:9
+msgid "List Carts"
+msgstr ""
+
+#: Template/Admin/Carts/add.ctp:5
+#: Template/Admin/Carts/edit.ctp:11
+#: Template/Admin/Orders/add.ctp:5
+#: Template/Admin/Reviews/add.ctp:7
+#: Template/Admin/Reviews/edit.ctp:13
+#: Template/Admin/Users/add.ctp:4
+#: Template/Admin/Users/edit.ctp:10
+msgid "List Users"
+msgstr ""
+
+#: Template/Admin/Carts/add.ctp:6
+#: Template/Admin/Carts/edit.ctp:12
+#: Template/Admin/Orders/add.ctp:6
+#: Template/Admin/Reviews/add.ctp:8
+#: Template/Admin/Reviews/edit.ctp:14
+msgid "New User"
+msgstr ""
+
+#: Template/Admin/Carts/add.ctp:7
+#: Template/Admin/Carts/edit.ctp:13
+#: Template/Admin/Discounts/add.ctp:5
+#: Template/Admin/Discounts/edit.ctp:11
+#: Template/Admin/ProductImages/add.ctp:5
+#: Template/Admin/ProductImages/edit.ctp:11
+#: Template/Admin/Products/add.ctp:4
+#: Template/Admin/Purchases/add.ctp:7
+#: Template/Admin/Purchases/edit.ctp:13
+#: Template/Admin/Reviews/add.ctp:5
+#: Template/Admin/Reviews/edit.ctp:11
+#: Template/Admin/SubCategories/add.ctp:7
+#: Template/Admin/SubCategories/edit.ctp:13
+msgid "List Products"
+msgstr ""
+
+#: Template/Admin/Carts/add.ctp:8
+#: Template/Admin/Carts/edit.ctp:14
+#: Template/Admin/Discounts/add.ctp:6
+#: Template/Admin/Discounts/edit.ctp:12
+#: Template/Admin/ProductImages/add.ctp:6
+#: Template/Admin/ProductImages/edit.ctp:12
+#: Template/Admin/Purchases/add.ctp:8
+#: Template/Admin/Purchases/edit.ctp:14
+#: Template/Admin/Reviews/add.ctp:6
+#: Template/Admin/Reviews/edit.ctp:12
+#: Template/Admin/SubCategories/add.ctp:8
+#: Template/Admin/SubCategories/edit.ctp:14
+msgid "New Product"
+msgstr ""
+
+#: Template/Admin/Carts/add.ctp:14
+msgid "Add Cart"
+msgstr ""
+
+#: Template/Admin/Carts/add.ctp:23
+#: Template/Admin/Carts/edit.ctp:29
+#: Template/Admin/Discounts/add.ctp:21
+#: Template/Admin/Discounts/edit.ctp:27
+#: Template/Admin/Orders/add.ctp:24
+#: Template/Admin/Pages/add.ctp:16
+#: Template/Admin/Pages/edit.ctp:22
+#: Template/Admin/ProductImages/add.ctp:20
+#: Template/Admin/ProductImages/edit.ctp:26
+#: Template/Admin/Products/add.ctp:39
+#: Template/Admin/Purchases/add.ctp:22
+#: Template/Admin/Purchases/edit.ctp:28
+#: Template/Admin/Reviews/add.ctp:23
+#: Template/Admin/Reviews/edit.ctp:29
+#: Template/Admin/SubCategories/add.ctp:22
+#: Template/Admin/SubCategories/edit.ctp:28
+#: Template/Admin/Users/add.ctp:29
+#: Template/Admin/Users/edit.ctp:35
+#: View/Helper/FormHelper.php:1988
+msgid "Submit"
+msgstr ""
+
+#: Template/Admin/Carts/edit.ctp:5
+#: Template/Admin/Carts/view.ctp:5
+#: Template/Admin/Discounts/edit.ctp:5
+#: Template/Admin/Discounts/view.ctp:5
+#: Template/Admin/Pages/edit.ctp:5
+#: Template/Admin/Pages/view.ctp:5
+#: Template/Admin/ProductImages/edit.ctp:5
+#: Template/Admin/ProductImages/view.ctp:5
+#: Template/Admin/Products/view.ctp:5
+#: Template/Admin/Purchases/edit.ctp:5
+#: Template/Admin/Purchases/view.ctp:5
+#: Template/Admin/Reviews/edit.ctp:5
+#: Template/Admin/Reviews/view.ctp:5
+#: Template/Admin/SubCategories/edit.ctp:5
+#: Template/Admin/SubCategories/view.ctp:5
+#: Template/Admin/Users/edit.ctp:5
+#: Template/Admin/Users/view.ctp:5
+#: Template/Bake/Template/view.ctp:58
+msgid "Delete"
+msgstr ""
+
+#: Template/Admin/Carts/edit.ctp:7
+#: Template/Admin/Carts/index.ctp:31
+#: Template/Admin/Carts/view.ctp:5
+#: Template/Admin/Categories/index.ctp:51
+#: Template/Admin/Categories/view.ctp:5;48
+#: Template/Admin/Discounts/edit.ctp:7
+#: Template/Admin/Discounts/index.ctp:31
+#: Template/Admin/Discounts/view.ctp:5
+#: Template/Admin/Orders/edit.ctp:9
+#: Template/Admin/Orders/index.ctp:42
+#: Template/Admin/Orders/view.ctp:6;30
+#: Template/Admin/Pages/edit.ctp:7
+#: Template/Admin/Pages/index.ctp:25
+#: Template/Admin/Pages/view.ctp:5
+#: Template/Admin/ProductImages/edit.ctp:7
+#: Template/Admin/ProductImages/index.ctp:31
+#: Template/Admin/ProductImages/view.ctp:5
+#: Template/Admin/Products/index.ctp:93
+#: Template/Admin/Products/view.ctp:5;112;150;186
+#: Template/Admin/Purchases/edit.ctp:7
+#: Template/Admin/Purchases/index.ctp:31
+#: Template/Admin/Purchases/view.ctp:5
+#: Template/Admin/Reviews/edit.ctp:7
+#: Template/Admin/Reviews/index.ctp:31
+#: Template/Admin/Reviews/view.ctp:5
+#: Template/Admin/SubCategories/edit.ctp:7
+#: Template/Admin/SubCategories/index.ctp:29
+#: Template/Admin/SubCategories/view.ctp:5;88
+#: Template/Admin/Users/edit.ctp:7
+#: Template/Admin/Users/index.ctp:31
+#: Template/Admin/Users/view.ctp:5
+#: Template/Bake/Template/index.ctp:76
+#: Template/Bake/Template/view.ctp:58;137
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Admin/Carts/edit.ctp:20
+msgid "Edit Cart"
+msgstr ""
+
+#: Template/Admin/Carts/index.ctp:3
+#: Template/Admin/Discounts/index.ctp:3
+#: Template/Admin/Pages/index.ctp:3
+#: Template/Admin/ProductImages/index.ctp:3
+#: Template/Admin/Purchases/index.ctp:3
+#: Template/Admin/Reviews/index.ctp:3
+#: Template/Admin/SubCategories/index.ctp:3
+#: Template/Admin/Users/index.ctp:3
+#: Template/Bake/Template/index.ctp:31
+msgid "Add New"
+msgstr ""
+
+#: Template/Admin/Carts/index.ctp:4
+msgid "Carts"
+msgstr ""
+
+#: Template/Admin/Carts/index.ctp:29
+#: Template/Admin/Discounts/index.ctp:29
+#: Template/Admin/Pages/index.ctp:23
+#: Template/Admin/ProductImages/index.ctp:29
+#: Template/Admin/Products/view.ctp:108;146;182
+#: Template/Admin/Purchases/index.ctp:29
+#: Template/Admin/Reviews/index.ctp:29
+#: Template/Admin/SubCategories/index.ctp:27
+#: Template/Admin/SubCategories/view.ctp:84
+#: Template/Admin/Users/index.ctp:29
+#: Template/Bake/Template/index.ctp:74
+#: Template/Bake/Template/view.ctp:135
+msgid "<i class=\"glyphicon glyphicon-eye-open\"></i>"
+msgstr ""
+
+#: Template/Admin/Carts/index.ctp:30
+#: Template/Admin/Discounts/index.ctp:30
+#: Template/Admin/Pages/index.ctp:24
+#: Template/Admin/ProductImages/index.ctp:30
+#: Template/Admin/Products/view.ctp:110;148;184
+#: Template/Admin/Purchases/index.ctp:30
+#: Template/Admin/Reviews/index.ctp:30
+#: Template/Admin/SubCategories/index.ctp:28
+#: Template/Admin/SubCategories/view.ctp:86
+#: Template/Admin/Users/index.ctp:30
+#: Template/Bake/Template/index.ctp:75
+#: Template/Bake/Template/view.ctp:136
+msgid "<i class=\"glyphicon glyphicon-edit\"></i>"
+msgstr ""
+
+#: Template/Admin/Carts/index.ctp:31
+#: Template/Admin/Discounts/index.ctp:31
+#: Template/Admin/Pages/index.ctp:25
+#: Template/Admin/ProductImages/index.ctp:31
+#: Template/Admin/Products/view.ctp:112;150;186
+#: Template/Admin/Purchases/index.ctp:31
+#: Template/Admin/Reviews/index.ctp:31
+#: Template/Admin/SubCategories/index.ctp:29
+#: Template/Admin/SubCategories/view.ctp:88
+#: Template/Admin/Users/index.ctp:31
+#: Template/Bake/Template/index.ctp:76
+#: Template/Bake/Template/view.ctp:137
+msgid "<i class=\"glyphicon glyphicon-trash\"></i>"
+msgstr ""
+
+#: Template/Admin/Carts/index.ctp:39
+#: Template/Admin/Categories/index.ctp:61
+#: Template/Admin/Discounts/index.ctp:39
+#: Template/Admin/Orders/index.ctp:50
+#: Template/Admin/Pages/index.ctp:33
+#: Template/Admin/ProductImages/index.ctp:39
+#: Template/Admin/Products/index.ctp:103
+#: Template/Admin/Purchases/index.ctp:39
+#: Template/Admin/Reviews/index.ctp:39
+#: Template/Admin/SubCategories/index.ctp:37
+#: Template/Admin/Users/index.ctp:39
+#: Template/Bake/Template/index.ctp:84
+#: Template/Products/search.ctp:78
+msgid "previous"
+msgstr ""
+
+#: Template/Admin/Carts/index.ctp:41
+#: Template/Admin/Categories/index.ctp:62
+#: Template/Admin/Discounts/index.ctp:41
+#: Template/Admin/Orders/index.ctp:52
+#: Template/Admin/Pages/index.ctp:35
+#: Template/Admin/ProductImages/index.ctp:41
+#: Template/Admin/Products/index.ctp:104
+#: Template/Admin/Purchases/index.ctp:41
+#: Template/Admin/Reviews/index.ctp:41
+#: Template/Admin/SubCategories/index.ctp:39
+#: Template/Admin/Users/index.ctp:41
+#: Template/Bake/Template/index.ctp:86
+#: Template/Products/search.ctp:80
+msgid "next"
+msgstr ""
+
+#: Template/Admin/Carts/view.ctp:4
+#: Template/Admin/Discounts/view.ctp:4
+#: Template/Admin/Pages/view.ctp:4
+#: Template/Admin/ProductImages/view.ctp:4
+#: Template/Admin/Products/view.ctp:4
+#: Template/Admin/Purchases/view.ctp:4
+#: Template/Admin/Reviews/view.ctp:4
+#: Template/Admin/SubCategories/view.ctp:4
+#: Template/Admin/Users/view.ctp:4
+#: Template/Bake/Template/view.ctp:57
+msgid "Edit"
+msgstr ""
+
+#: Template/Admin/Carts/view.ctp:10
+#: Template/Admin/Reviews/view.ctp:14
+msgid "User"
+msgstr ""
+
+#: Template/Admin/Carts/view.ctp:14
+#: Template/Admin/Discounts/view.ctp:10
+#: Template/Admin/Orders/view.ctp:14
+#: Template/Admin/ProductImages/view.ctp:10
+#: Template/Admin/Purchases/view.ctp:14
+#: Template/Admin/Reviews/view.ctp:10
+msgid "Product"
+msgstr ""
+
+#: Template/Admin/Carts/view.ctp:18
+#: Template/Admin/Discounts/view.ctp:14
+#: Template/Admin/Pages/view.ctp:14
+#: Template/Admin/ProductImages/view.ctp:22
+#: Template/Admin/Products/view.ctp:42;87;125;163
+#: Template/Admin/Purchases/view.ctp:18
+#: Template/Admin/Reviews/view.ctp:18
+#: Template/Admin/SubCategories/view.ctp:18;43
+#: Template/Admin/Users/view.ctp:54
+msgid "Id"
+msgstr ""
+
+#: Template/Admin/Carts/view.ctp:22
+#: Template/Admin/Products/view.ctp:90;166
+#: Template/Admin/Purchases/view.ctp:22
+msgid "Price"
+msgstr ""
+
+#: Template/Admin/Carts/view.ctp:26
+#: Template/Admin/Orders/view.ctp:15
+#: Template/Admin/Products/view.ctp:91;167
+#: Template/Admin/Purchases/view.ctp:26
+msgid "Quantity"
+msgstr ""
+
+#: Template/Admin/Carts/view.ctp:30
+#: Template/Admin/Discounts/view.ctp:30
+#: Template/Admin/Orders/view.ctp:16
+#: Template/Admin/Pages/view.ctp:18
+#: Template/Admin/ProductImages/view.ctp:26
+#: Template/Admin/Products/view.ctp:66;92;130;168
+#: Template/Admin/Purchases/view.ctp:30
+#: Template/Admin/Reviews/view.ctp:30
+#: Template/Admin/SubCategories/view.ctp:22;58
+#: Template/Admin/Users/view.ctp:70
+msgid "Created"
+msgstr ""
+
+#: Template/Admin/Carts/view.ctp:34
+#: Template/Admin/Discounts/view.ctp:34
+#: Template/Admin/Pages/view.ctp:22
+#: Template/Admin/ProductImages/view.ctp:30
+#: Template/Admin/Products/view.ctp:70;93;131;169
+#: Template/Admin/Purchases/view.ctp:34
+#: Template/Admin/Reviews/view.ctp:34
+#: Template/Admin/SubCategories/view.ctp:26;59
+#: Template/Admin/Users/view.ctp:74
+msgid "Modified"
+msgstr ""
+
+#: Template/Admin/Carts/view.ctp:38
+#: Template/Admin/Discounts/view.ctp:38
+#: Template/Admin/ProductImages/view.ctp:34
+#: Template/Admin/Products/view.ctp:74;94;132
+#: Template/Admin/Reviews/view.ctp:38
+#: Template/Admin/SubCategories/view.ctp:30;60
+#: Template/Admin/Users/view.ctp:78
+msgid "Status"
+msgstr ""
+
+#: Template/Admin/Carts/view.ctp:39
+#: Template/Admin/Discounts/view.ctp:39
+#: Template/Admin/ProductImages/view.ctp:35
+#: Template/Admin/Products/view.ctp:75
+#: Template/Admin/Reviews/view.ctp:39
+#: Template/Admin/SubCategories/view.ctp:31
+#: Template/Admin/Users/view.ctp:79
+#: Template/Bake/Template/view.ctp:99
+msgid "Yes"
+msgstr ""
+
+#: Template/Admin/Carts/view.ctp:39
+#: Template/Admin/Discounts/view.ctp:39
+#: Template/Admin/ProductImages/view.ctp:35
+#: Template/Admin/Products/view.ctp:75
+#: Template/Admin/Reviews/view.ctp:39
+#: Template/Admin/SubCategories/view.ctp:31
+#: Template/Admin/Users/view.ctp:79
+#: Template/Bake/Template/view.ctp:99
+msgid "No"
+msgstr ""
+
+#: Template/Admin/Categories/add.ctp:10
+msgid "Add Category"
+msgstr ""
+
+#: Template/Admin/Categories/index.ctp:50
+#: Template/Admin/Categories/view.ctp:47
+#: Template/Admin/Orders/index.ctp:41
+#: Template/Admin/Orders/view.ctp:29
+#: Template/Admin/Products/index.ctp:92
+msgid "<i class=\"zmdi zmdi-edit\"></i>"
+msgstr ""
+
+#: Template/Admin/Categories/index.ctp:51
+#: Template/Admin/Categories/view.ctp:48
+#: Template/Admin/Orders/index.ctp:42
+#: Template/Admin/Orders/view.ctp:30
+#: Template/Admin/Products/index.ctp:93
+msgid "<i class=\"zmdi zmdi-delete\"></i>"
+msgstr ""
+
+#: Template/Admin/Categories/view.ctp:4
+#: Template/Admin/Orders/view.ctp:5
+msgid "<i class=\"far fa-edit\"></i> Chỉnh sửa"
+msgstr ""
+
+#: Template/Admin/Categories/view.ctp:5
+#: Template/Admin/Orders/edit.ctp:7
+#: Template/Admin/Orders/view.ctp:6
+msgid "<i class=\"far fa-trash-alt\"></i> Xoá"
+msgstr ""
+
+#: Template/Admin/Discounts/add.ctp:4
+#: Template/Admin/Discounts/edit.ctp:10
+#: Template/Admin/Products/add.ctp:11
+msgid "List Discounts"
+msgstr ""
+
+#: Template/Admin/Discounts/add.ctp:12
+msgid "Add Discount"
+msgstr ""
+
+#: Template/Admin/Discounts/edit.ctp:18
+msgid "Edit Discount"
+msgstr ""
+
+#: Template/Admin/Discounts/index.ctp:4
+msgid "Discounts"
+msgstr ""
+
+#: Template/Admin/Discounts/view.ctp:18
+#: Template/Admin/Products/view.ctp:127
+msgid "Amount"
+msgstr ""
+
+#: Template/Admin/Discounts/view.ctp:22
+#: Template/Admin/Products/view.ctp:128
+msgid "Start At"
+msgstr ""
+
+#: Template/Admin/Discounts/view.ctp:26
+#: Template/Admin/Products/view.ctp:129
+msgid "End At"
+msgstr ""
+
+#: Template/Admin/Orders/add.ctp:4
+#: Template/Admin/Purchases/add.ctp:5
+#: Template/Admin/Purchases/edit.ctp:11
+msgid "List Orders"
+msgstr ""
+
+#: Template/Admin/Orders/add.ctp:7
+#: Template/Admin/Products/add.ctp:13
+#: Template/Admin/Purchases/add.ctp:4
+#: Template/Admin/Purchases/edit.ctp:10
+msgid "List Purchases"
+msgstr ""
+
+#: Template/Admin/Orders/add.ctp:8
+#: Template/Admin/Products/add.ctp:14
+msgid "New Purchase"
+msgstr ""
+
+#: Template/Admin/Orders/add.ctp:14
+msgid "Add Order"
+msgstr ""
+
+#: Template/Admin/Orders/edit.ctp:15
+msgid "Edit Order"
+msgstr ""
+
+#: Template/Admin/Orders/index.ctp:4
+msgid "Đơn hàng"
+msgstr ""
+
+#: Template/Admin/Orders/index.ctp:8
+#: Template/Admin/Purchases/view.ctp:10
+msgid "Order"
+msgstr ""
+
+#: Template/Admin/Orders/index.ctp:11
+msgid "Điện thoại"
+msgstr ""
+
+#: Template/Admin/Orders/index.ctp:12
+#: Template/Admin/Users/view.ctp:10
+msgid "Email"
+msgstr ""
+
+#: Template/Admin/Orders/index.ctp:13
+msgid "Sản phẩm"
+msgstr ""
+
+#: Template/Admin/Orders/index.ctp:14
+msgid "Ghi chú"
+msgstr ""
+
+#: Template/Admin/Orders/index.ctp:15
+msgid "Giá tiền"
+msgstr ""
+
+#: Template/Admin/Orders/index.ctp:40
+#: Template/Admin/Orders/view.ctp:28
+msgid "<i class=\"fas fa-eye\"></i>"
+msgstr ""
+
+#: Template/Admin/Orders/view.ctp:9
+msgid "Chi tiết đơn hàng"
+msgstr ""
+
+#: Template/Admin/Pages/add.ctp:4
+#: Template/Admin/Pages/edit.ctp:10
+msgid "List Pages"
+msgstr ""
+
+#: Template/Admin/Pages/add.ctp:10
+msgid "Add Page"
+msgstr ""
+
+#: Template/Admin/Pages/edit.ctp:16
+msgid "Edit Page"
+msgstr ""
+
+#: Template/Admin/Pages/index.ctp:4
+msgid "Pages"
+msgstr ""
+
+#: Template/Admin/Pages/view.ctp:10
+#: Template/Admin/Products/view.ctp:22
+#: Template/Admin/SubCategories/view.ctp:14;47
+msgid "Name"
+msgstr ""
+
+#: Template/Admin/Pages/view.ctp:27
+msgid "Content"
+msgstr ""
+
+#: Template/Admin/ProductImages/add.ctp:4
+#: Template/Admin/ProductImages/edit.ctp:10
+msgid "List Product Images"
+msgstr ""
+
+#: Template/Admin/ProductImages/add.ctp:12
+msgid "Add Product Image"
+msgstr ""
+
+#: Template/Admin/ProductImages/edit.ctp:18
+msgid "Edit Product Image"
+msgstr ""
+
+#: Template/Admin/ProductImages/index.ctp:4
+msgid "Product Images"
+msgstr ""
+
+#: Template/Admin/ProductImages/view.ctp:14
+msgid "Image"
+msgstr ""
+
+#: Template/Admin/ProductImages/view.ctp:18
+#: Template/Admin/Products/view.ctp:79
+#: Template/Admin/SubCategories/view.ctp:35;49
+msgid "Description"
+msgstr ""
+
+#: Template/Admin/Products/add.ctp:5
+#: Template/Admin/SubCategories/add.ctp:5
+#: Template/Admin/SubCategories/edit.ctp:11
+msgid "List Categories"
+msgstr ""
+
+#: Template/Admin/Products/add.ctp:6
+#: Template/Admin/SubCategories/add.ctp:6
+#: Template/Admin/SubCategories/edit.ctp:12
+msgid "New Category"
+msgstr ""
+
+#: Template/Admin/Products/add.ctp:7
+#: Template/Admin/SubCategories/add.ctp:4
+#: Template/Admin/SubCategories/edit.ctp:10
+msgid "List Sub Categories"
+msgstr ""
+
+#: Template/Admin/Products/add.ctp:8
+msgid "New Sub Category"
+msgstr ""
+
+#: Template/Admin/Products/add.ctp:10
+msgid "New Cart"
+msgstr ""
+
+#: Template/Admin/Products/add.ctp:12
+msgid "New Discount"
+msgstr ""
+
+#: Template/Admin/Products/add.ctp:20
+msgid "Add Product"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:10
+#: Template/Admin/SubCategories/view.ctp:10
+msgid "Category"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:14
+msgid "Sub Category"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:18
+#: Template/Admin/SubCategories/view.ctp:46
+msgid "Sku"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:26
+#: Template/Admin/SubCategories/view.ctp:48
+msgid "Model"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:30
+#: Template/Admin/SubCategories/view.ctp:53
+msgid "Size"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:34
+#: Template/Admin/SubCategories/view.ctp:54
+msgid "Color"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:38
+#: Template/Admin/SubCategories/view.ctp:57
+msgid "Thumb"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:46
+#: Template/Admin/SubCategories/view.ctp:50
+msgid "Buy Price"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:50
+#: Template/Admin/SubCategories/view.ctp:51
+msgid "Sell Price"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:54
+#: Template/Admin/SubCategories/view.ctp:52
+msgid "Units In Stock"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:58
+#: Template/Admin/SubCategories/view.ctp:55
+msgid "Weight"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:62
+#: Template/Admin/Reviews/view.ctp:22
+#: Template/Admin/SubCategories/view.ctp:56
+msgid "Rating"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:83
+msgid "Related Carts"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:88
+msgid "User Id"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:89;126;165
+msgid "Product Id"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:121
+msgid "Related Discounts"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:159
+msgid "Related Purchases"
+msgstr ""
+
+#: Template/Admin/Products/view.ctp:164
+msgid "Order Id"
+msgstr ""
+
+#: Template/Admin/Purchases/add.ctp:6
+#: Template/Admin/Purchases/edit.ctp:12
+msgid "New Order"
+msgstr ""
+
+#: Template/Admin/Purchases/add.ctp:14
+msgid "Add Purchase"
+msgstr ""
+
+#: Template/Admin/Purchases/edit.ctp:20
+msgid "Edit Purchase"
+msgstr ""
+
+#: Template/Admin/Purchases/index.ctp:4
+msgid "Purchases"
+msgstr ""
+
+#: Template/Admin/Reviews/add.ctp:4
+#: Template/Admin/Reviews/edit.ctp:10
+msgid "List Reviews"
+msgstr ""
+
+#: Template/Admin/Reviews/add.ctp:14
+msgid "Add Review"
+msgstr ""
+
+#: Template/Admin/Reviews/edit.ctp:20
+msgid "Edit Review"
+msgstr ""
+
+#: Template/Admin/Reviews/index.ctp:4
+msgid "Reviews"
+msgstr ""
+
+#: Template/Admin/Reviews/view.ctp:26
+msgid "Message"
+msgstr ""
+
+#: Template/Admin/SubCategories/add.ctp:14
+msgid "Add Sub Category"
+msgstr ""
+
+#: Template/Admin/SubCategories/edit.ctp:20
+msgid "Edit Sub Category"
+msgstr ""
+
+#: Template/Admin/SubCategories/index.ctp:4
+msgid "Sub Categories"
+msgstr ""
+
+#: Template/Admin/SubCategories/view.ctp:39
+msgid "Related Products"
+msgstr ""
+
+#: Template/Admin/SubCategories/view.ctp:44
+msgid "Category Id"
+msgstr ""
+
+#: Template/Admin/SubCategories/view.ctp:45
+msgid "Sub Category Id"
+msgstr ""
+
+#: Template/Admin/Users/add.ctp:10
+msgid "Add User"
+msgstr ""
+
+#: Template/Admin/Users/edit.ctp:16
+msgid "Edit User"
+msgstr ""
+
+#: Template/Admin/Users/index.ctp:4
+msgid "Users"
+msgstr ""
+
+#: Template/Admin/Users/login.ctp:29
+msgid "Đăng nhập"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:14
+msgid "Password"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:18
+msgid "First Name"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:22
+msgid "Last Name"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:26
+msgid "Company Name"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:30
+msgid "Avatar"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:34
+msgid "Address"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:38
+msgid "Address2"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:42
+msgid "City"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:46
+msgid "Country"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:50
+msgid "Phone"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:58
+msgid "Zip"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:62
+msgid "Role"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:66
+msgid "Birth Date"
+msgstr ""
+
+#: Template/Bake/Template/index.ctp:32
+msgid "<%= $pluralHumanName %>"
+msgstr ""
+
+#: Template/Bake/Template/view.ctp:68
+msgid "<%= Inflector::humanize($details["
+msgstr ""
+
+#: Template/Bake/Template/view.ctp:73;82;98;107;124
+msgid "<%= Inflector::humanize($field) %>"
+msgstr ""
+
+#: Template/Bake/Template/view.ctp:119
+msgid "Related <%= $otherPluralHumanName %>"
+msgstr ""
+
+#: Template/Element/header.ctp:43
+msgid "<i class=\"glyphicon glyphicon-user\"></i> Profile"
+msgstr ""
+
+#: Template/Element/header.ctp:44
+msgid "<i class=\"glyphicon glyphicon-cog\"></i> Change Password"
+msgstr ""
+
+#: Template/Element/header.ctp:46
+#: Template/Element/Admin/navbar.ctp:124
+msgid "<i class=\"glyphicon glyphicon-off\"></i> Logout"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:110
+msgid "<i class=\"fa fa-fw fa-dashboard\"></i> Dashboard"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:111
+msgid "<i class=\"glyphicon glyphicon-list-alt\"></i> Carts"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:112
+msgid "<i class=\"glyphicon glyphicon-list-alt\"></i> Categories"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:113
+msgid "<i class=\"glyphicon glyphicon-list-alt\"></i> Discounts"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:114
+msgid "<i class=\"glyphicon glyphicon-list-alt\"></i> Orders"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:115
+msgid "<i class=\"glyphicon glyphicon-list-alt\"></i> Pages"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:116
+msgid "<i class=\"glyphicon glyphicon-list-alt\"></i> ProductImages"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:117
+msgid "<i class=\"glyphicon glyphicon-list-alt\"></i> Products"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:118
+msgid "<i class=\"glyphicon glyphicon-list-alt\"></i> Purchases"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:119
+msgid "<i class=\"glyphicon glyphicon-list-alt\"></i> Reviews"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:120
+msgid "<i class=\"glyphicon glyphicon-list-alt\"></i> Sub Categories"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:121
+msgid "<i class=\"glyphicon glyphicon-list-alt\"></i> Users"
+msgstr ""
+
+#: Template/Element/Admin/navbar.ctp:123
+msgid "<i class=\"glyphicon glyphicon-cog\"></i> Settings"
+msgstr ""
+
+#: Template/Element/WM_Balo/home_header.ctp:12
+msgid "Become a courier"
+msgstr ""
+
+#: Template/Element/WM_Balo/home_header.ctp:17
+msgid "Help"
+msgstr ""
+
+#: Template/Element/WM_Balo/home_header.ctp:25
+msgid "Sign up"
+msgstr ""
+
+#: Template/Element/WM_Balo/home_header.ctp:33
+msgid "Log in"
+msgstr ""
+
+#: Template/Element/WM_Balo/home_social_login_modal.ctp:13
+#: Template/Users/login.ctp:11;17
+msgid "Login"
+msgstr ""
+
+#: View/Helper/PaginatorHelper.php:1212
+msgid "View"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:500
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:162
+#: Http/Middleware/CsrfProtectionMiddleware.php:191
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:166
+#: Http/Middleware/CsrfProtectionMiddleware.php:195
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:262
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:264
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2603
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2624
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:90
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:92
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:94
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:96
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:88
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154;332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155;333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156;334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157;335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171;346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172;347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173;348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174;349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47;126;316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51;129;319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57;132;322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59;135;325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64;138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68;141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72;144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:57
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:104
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:128
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:917
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:111
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:112
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:2054
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1099
+msgid "Edit {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1101
+msgid "New {0}"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:815
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:551
+msgid "December"
+msgstr ""
+

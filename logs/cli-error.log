@@ -1,0 +1,156 @@
+2018-08-16 15:32:06 Error: [Cake\ORM\Exception\MissingBehaviorException] Behavior class UploadableBehavior could not be found. in /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/BehaviorRegistry.php on line 127
+Exception Attributes: array (
+  'class' => 'UploadableBehavior',
+  'plugin' => 'Utils',
+)
+Stack Trace:
+#0 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(95): Cake\ORM\BehaviorRegistry->_throwMissingClassError('Uploadable', 'Utils')
+#1 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Table.php(860): Cake\Core\ObjectRegistry->load('Uploadable', Array)
+#2 /var/www/html/wowmua.com/src/Model/Table/ProductImagesTable.php(35): Cake\ORM\Table->addBehavior('Utils.Uploadabl...', Array)
+#3 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Table.php(291): App\Model\Table\ProductImagesTable->initialize(Array)
+#4 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Locator/TableLocator.php(257): Cake\ORM\Table->__construct(Array)
+#5 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Locator/TableLocator.php(224): Cake\ORM\Locator\TableLocator->_create(Array)
+#6 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(195): Cake\ORM\Locator\TableLocator->get('ProductImages', Array)
+#7 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(414): Bake\Shell\Task\ModelTask->getTableObject('ProductImages', 'product_images')
+#8 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(231): Bake\Shell\Task\ModelTask->findHasMany(Object(Cake\ORM\Table), Array)
+#9 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(130): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#10 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(113): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'trademarks', 'Trademarks')
+#11 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(100): Bake\Shell\Task\ModelTask->bake('Trademarks')
+#12 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/Shell.php(532): Bake\Shell\Task\ModelTask->main('Trademarks')
+#13 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/Shell.php(525): Cake\Console\Shell->runCommand(Array, false, Array)
+#14 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(230): Cake\Console\Shell->runCommand(Array, true, Array)
+#15 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#16 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#17 /var/www/html/wowmua.com/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#18 {main}
+
+
+2018-08-16 15:37:47 Error: [Cake\ORM\Exception\MissingBehaviorException] Behavior class UploadableBehavior could not be found. in /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/BehaviorRegistry.php on line 127
+Exception Attributes: array (
+  'class' => 'UploadableBehavior',
+  'plugin' => 'Utils',
+)
+Stack Trace:
+#0 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(95): Cake\ORM\BehaviorRegistry->_throwMissingClassError('Uploadable', 'Utils')
+#1 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Table.php(860): Cake\Core\ObjectRegistry->load('Uploadable', Array)
+#2 /var/www/html/wowmua.com/src/Model/Table/ProductImagesTable.php(35): Cake\ORM\Table->addBehavior('Utils.Uploadabl...', Array)
+#3 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Table.php(291): App\Model\Table\ProductImagesTable->initialize(Array)
+#4 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Locator/TableLocator.php(257): Cake\ORM\Table->__construct(Array)
+#5 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Locator/TableLocator.php(224): Cake\ORM\Locator\TableLocator->_create(Array)
+#6 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(195): Cake\ORM\Locator\TableLocator->get('ProductImages', Array)
+#7 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(414): Bake\Shell\Task\ModelTask->getTableObject('ProductImages', 'product_images')
+#8 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(231): Bake\Shell\Task\ModelTask->findHasMany(Object(Cake\ORM\Table), Array)
+#9 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(130): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#10 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(113): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'trademarks', 'Trademarks')
+#11 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(100): Bake\Shell\Task\ModelTask->bake('Trademarks')
+#12 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/Shell.php(532): Bake\Shell\Task\ModelTask->main('Trademarks')
+#13 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/Shell.php(525): Cake\Console\Shell->runCommand(Array, false, Array)
+#14 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(230): Cake\Console\Shell->runCommand(Array, true, Array)
+#15 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#16 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#17 /var/www/html/wowmua.com/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#18 {main}
+
+
+2018-08-16 15:40:50 Error: [Cake\ORM\Exception\MissingBehaviorException] Behavior class UploadableBehavior could not be found. in /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/BehaviorRegistry.php on line 127
+Exception Attributes: array (
+  'class' => 'UploadableBehavior',
+  'plugin' => 'Utils',
+)
+Stack Trace:
+#0 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(95): Cake\ORM\BehaviorRegistry->_throwMissingClassError('Uploadable', 'Utils')
+#1 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Table.php(860): Cake\Core\ObjectRegistry->load('Uploadable', Array)
+#2 /var/www/html/wowmua.com/src/Model/Table/ProductImagesTable.php(35): Cake\ORM\Table->addBehavior('Utils.Uploadabl...', Array)
+#3 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Table.php(291): App\Model\Table\ProductImagesTable->initialize(Array)
+#4 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Locator/TableLocator.php(257): Cake\ORM\Table->__construct(Array)
+#5 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Locator/TableLocator.php(224): Cake\ORM\Locator\TableLocator->_create(Array)
+#6 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(195): Cake\ORM\Locator\TableLocator->get('ProductImages', Array)
+#7 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(414): Bake\Shell\Task\ModelTask->getTableObject('ProductImages', 'product_images')
+#8 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(231): Bake\Shell\Task\ModelTask->findHasMany(Object(Cake\ORM\Table), Array)
+#9 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(130): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#10 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(113): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'trademarks', 'Trademarks')
+#11 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(100): Bake\Shell\Task\ModelTask->bake('Trademarks')
+#12 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/Shell.php(532): Bake\Shell\Task\ModelTask->main('Trademarks')
+#13 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/Shell.php(525): Cake\Console\Shell->runCommand(Array, false, Array)
+#14 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(230): Cake\Console\Shell->runCommand(Array, true, Array)
+#15 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#16 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#17 /var/www/html/wowmua.com/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#18 {main}
+
+
+2018-08-16 16:12:00 Error: [Cake\ORM\Exception\MissingBehaviorException] Behavior class UploadableBehavior could not be found. in /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/BehaviorRegistry.php on line 127
+Exception Attributes: array (
+  'class' => 'UploadableBehavior',
+  'plugin' => 'Utils',
+)
+Stack Trace:
+#0 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(95): Cake\ORM\BehaviorRegistry->_throwMissingClassError('Uploadable', 'Utils')
+#1 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Table.php(860): Cake\Core\ObjectRegistry->load('Uploadable', Array)
+#2 /var/www/html/wowmua.com/src/Model/Table/ProductImagesTable.php(35): Cake\ORM\Table->addBehavior('Utils.Uploadabl...', Array)
+#3 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Table.php(291): App\Model\Table\ProductImagesTable->initialize(Array)
+#4 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Locator/TableLocator.php(257): Cake\ORM\Table->__construct(Array)
+#5 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/ORM/Locator/TableLocator.php(224): Cake\ORM\Locator\TableLocator->_create(Array)
+#6 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(195): Cake\ORM\Locator\TableLocator->get('ProductImages', Array)
+#7 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(414): Bake\Shell\Task\ModelTask->getTableObject('ProductImages', 'product_images')
+#8 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(231): Bake\Shell\Task\ModelTask->findHasMany(Object(Cake\ORM\Table), Array)
+#9 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(130): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#10 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(113): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'trademarks', 'Trademarks')
+#11 /var/www/html/wowmua.com/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(100): Bake\Shell\Task\ModelTask->bake('Trademarks')
+#12 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/Shell.php(532): Bake\Shell\Task\ModelTask->main('Trademarks')
+#13 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/Shell.php(525): Cake\Console\Shell->runCommand(Array, false, Array)
+#14 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(230): Cake\Console\Shell->runCommand(Array, true, Array)
+#15 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#16 /var/www/html/wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#17 /var/www/html/wowmua.com/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#18 {main}
+
+
+2018-10-21 14:53:14 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Minify" could not be found. If you are trying to use a plugin shell, that was loaded via $this->addPlugin(), you may need to update bin/cake.php to match https://github.com/cakephp/app/tree/master/bin/cake.php in /var/www/html/dev.wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php on line 327
+Exception Attributes: array (
+  'class' => 'Minify',
+)
+Stack Trace:
+#0 /var/www/html/dev.wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(226): Cake\Console\ShellDispatcher->findShell('Minify')
+#1 /var/www/html/dev.wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/dev.wowmua.com/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/dev.wowmua.com/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2018-11-19 15:56:18 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Minify" could not be found. If you are trying to use a plugin shell, that was loaded via $this->addPlugin(), you may need to update bin/cake.php to match https://github.com/cakephp/app/tree/master/bin/cake.php in /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php on line 327
+Exception Attributes: array (
+  'class' => 'Minify',
+)
+Stack Trace:
+#0 /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(226): Cake\Console\ShellDispatcher->findShell('Minify')
+#1 /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /Applications/MAMP/htdocs/wowmua/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2018-11-19 15:56:55 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Minify" could not be found. If you are trying to use a plugin shell, that was loaded via $this->addPlugin(), you may need to update bin/cake.php to match https://github.com/cakephp/app/tree/master/bin/cake.php in /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php on line 327
+Exception Attributes: array (
+  'class' => 'Minify',
+)
+Stack Trace:
+#0 /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(226): Cake\Console\ShellDispatcher->findShell('Minify')
+#1 /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /Applications/MAMP/htdocs/wowmua/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2018-11-24 10:05:04 Error: [Cake\Console\Exception\MissingShellException] Shell class for "-v" could not be found. If you are trying to use a plugin shell, that was loaded via $this->addPlugin(), you may need to update bin/cake.php to match https://github.com/cakephp/app/tree/master/bin/cake.php in /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php on line 327
+Exception Attributes: array (
+  'class' => '-v',
+)
+Stack Trace:
+#0 /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(226): Cake\Console\ShellDispatcher->findShell('-v')
+#1 /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /Applications/MAMP/htdocs/wowmua/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /Applications/MAMP/htdocs/wowmua/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
